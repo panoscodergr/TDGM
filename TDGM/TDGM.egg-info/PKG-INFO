@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: TDGM
+Version: 0.1
+Summary: Μια βιβλιοθήκη για φόρτωση DXF/DWG, γεωμετρικές πράξεις και μαθηματικούς υπολογισμούς.
+Author: Το Όνομά σου
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: ezdxf
+
+# plygon
+
+Μια Python βιβλιοθήκη για φόρτωση DXF/DWG αρχείων, δημιουργία γεωμετρικών σχημάτων και μαθηματικές πράξεις.
+
+## 🚀 Εγκατάσταση
+
+```sh
+pip install .
